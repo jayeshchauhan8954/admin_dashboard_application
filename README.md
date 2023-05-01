@@ -1,8 +1,20 @@
 # Getting Started with Create React App
-Hey guys this is Jayesh Chauhan (MERN DEVELOPER), I have creatied this application with lots of efforts and time.
-
+Hey guys, this is Jayesh Chauhan (MERN DEVELOPER), I have created this application with lots of efforts and time.
+Hope you will enjoy this application.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is the application of frontend only but I will give this more time and I will also build it's backend as well so that it may have good working experience.
+
+This application includes below:-
+1. Ecommerce app
+2. Calender app
+3. Color Picker app
+4. Kanban todo app
+5. Text editor app
+6. Different chart app
+7. and many more amazing features with this application
+
+===> Hope you will enjoy this application while using this application.
 ## Available Scripts
 
 In the project directory, you can run:
